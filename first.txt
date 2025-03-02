@@ -1,2 +1,0 @@
-first text file of MCT1.
-Hello all this is very intresting to study Git.
